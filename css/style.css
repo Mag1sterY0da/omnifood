@@ -74,6 +74,25 @@
   display: none;
 }
 
+/* STICKY NAVIGATION */
+
+.sticky .header {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 8rem;
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: rgba(255, 255, 255, 0.97);
+  z-index: 1000;
+  box-shadow: 0 1.2rem 3.2rem rgba(0, 0, 0, 0.03);
+}
+
+.sticky .section-hero {
+  margin-top: 9.6rem;
+}
+
 /*************************/
 /* HERO SECTION */
 /*************************/
@@ -331,13 +350,13 @@
   column-gap: 8rem;
 }
 
-.testimonial img {
+.testimonial-img {
   width: 6.4rem;
   border-radius: 50%;
   margin-bottom: 1.2rem;
 }
 
-.testimonials-text {
+.testimonial-text {
   font-size: 1.8rem;
   line-height: 1.8;
   margin-bottom: 1.6rem;
@@ -443,7 +462,7 @@
   color: #6f6f6f;
 }
 
-.plan-sign-up {
+.plan-sing-up {
   text-align: center;
   margin-top: 4.8rem;
 }
