@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#download">Download</a> 
+  <a href="#demo">Demo</a> •
+  <a href="#download">Download</a>
 </p>
 
 ## Key Features
@@ -18,6 +19,12 @@
 * Readily accessible contact
 * Design reference in CSS files
 * Commented each section of the site
+
+## Demo
+
+The site hosted on Netlify
+
+[Demo](https://omnifood-mag.netlify.app/)
 
 ## Download
 
