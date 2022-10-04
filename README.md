@@ -48,7 +48,7 @@ $ git clone https://github.com/Mag1sterY0da/omnifood.git
 
 Oleksandr - [@Mag1sterY0da](https://twitter.com/Mag1sterY0da) - oborodavchenko@gmail.com
 
-## You may also like...
+### You may also like...
 
 * Other project links will be added later
 
